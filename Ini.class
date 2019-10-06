@@ -1,3 +1,5 @@
 Class Ini{
-
+  public static void Main(String[] args) {
+  
+  }
 }
