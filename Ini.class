@@ -1,8 +1,0 @@
-Class Ini{
-  public static void Main(String[] args) {
-    int n1 = 5;
-    int n2 = 55;
-    int r = n1+n2;
-    System.out.print(r);
-  }
-}
